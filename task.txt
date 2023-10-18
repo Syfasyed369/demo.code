@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DESIGN WITH HTML,CSS</title>
+</head>
+<body>
+    <TABLE align="center" border="2" height="600px" width="900px">
+        <tr>
+            <th colspan="4" height="70px"> <p align="left" font="san serif">NEWS portal</p></th>
+        </tr>
+        <tr>            
+            <td rowspan="3"></td>
+            <td colspan="2"></td>
+            <td rowspan="3"></td>
+        </tr>
+        <tr>
+            <td colspan="2"></td>      
+        </tr>
+        <tr>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="4"></td>
+        </tr>
+    </TABLE>
+    
+</body>
+</html>
